@@ -1,0 +1,17 @@
+HTTP####TTP/####TP/1####P/1.####/1.1####1.1 ####.1 2####1 20#### 200####200 ####00 O####0 OK#### OK
+####OK
+D####K
+Da####
+Dat####Date####ate:####te: ####
+Ser####Serv####erve####rver####ver:####er: ####
+X-F####X-Fr####-Fra####tion#### Mod####Modi####odif####difi####ifie####fied####
+ETa####ETag####Tag:####ag: ####
+Acc####Acce####ccep####cept####ept-####es: ####
+Con####Cont####onte####nten####tent####ent-####t-En####-Enc####Enco####ncod####codi####odin####ding####ing:####ng: ####
+Cac####Cach####ache####che-####he-C####e-Co####-Con####Cont####ontr####ntro####trol####rol:####ol: ####
+Exp####Expi####xpir####pire####ires####res:####es: ####
+Con####Cont####onte####nten####tent####ent-####nt-L####t-Le####-Len####Leng####engt####ngth####gth:####th: #### 304####
+Kee####Keep####eep-####ep-A####p-Al####-Ali####Aliv####live####ive:####ve: ####
+Con####Conn####onne####nnec####nect####ecti####ctio####tion####ion:####on: ####
+Con####Cont####onte####nten####tent####ent-####ype:####pe: ####
+Con####Cont####onte####nten####tent####ent-####nt-L####t-La####-Lan####Lang####angu####ngua####guag####uage####age:####ge: 

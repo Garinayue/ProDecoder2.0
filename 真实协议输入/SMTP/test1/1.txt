@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<mHqiBp0bISKM7@localhost>
+250 2.1.0 Ok
+RCPT TO:<qMfYQ03crFSJRVghs@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: mHqiBp0bISKM7@localhost
+To: qMfYQ03crFSJRVghs@localhost
+Message-ID: <9488974838.17217.1515575743476.JavaMail.toney@toney-pkl-server>
+Subject: TUR
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_17216_816481658.1515575743476"
+
+------=_Part_17216_816481658.1515575743476
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+sjbYOHump61lekogh2C5cRi9DtUaKBQSFd0fMNxv4LqPrTZGJwVz3An8E34TXAG96U5iByFpgH1W0ZVDmbJkCztELQnav7KfSwYMsVZi4Jp5oGuQwLtTqg9esaBfKAcOYCSE17hljHPUn2v08xM3dzr
+------=_Part_17216_816481658.1515575743476--
+.
+250 2.0.0 Ok: queued as ZJBYR19CNPDF
+QUIT
+221 2.0.0 Bye

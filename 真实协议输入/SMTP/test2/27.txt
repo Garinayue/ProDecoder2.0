@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<TNWqf9@localhost>
+250 2.1.0 Ok
+RCPT TO:<INXk80F7Sexcl2@localhost>
+250 2.1.5 Ok
+RCPT TO:<8siyFn4vda@localhost>
+250 2.1.5 Ok
+RCPT TO:<08kRcQNUj@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: TNWqf9@localhost
+To: INXk80F7Sexcl2@localhost
+Cc: 8siyFn4vda@localhost
+Message-ID: <384655773.18244.1515575819412.JavaMail.toney@toney-pkl-server>
+Subject: CNKvf
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_18243_866421821.1515575819412"
+
+------=_Part_18243_866421821.1515575819412
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+jgqltZHwMGy0CmoEJcKITRALOYe5Uxb76kif2uv9XBPDVadWFrhQKrD7kePoZstfuUAbhXdYjIHlGg2WavLMVy5xmw8R1SEzO9FQTp43i6qCJ5HNCPMGFdVipfgsx9Am6vJtSeyaXIw0T2EYLWUc4bO8l3jhquRkrD1noKQ
+------=_Part_18243_866421821.1515575819412--
+.
+250 2.0.0 Ok: queued as 1I2ML19C98KB
+QUIT
+221 2.0.0 Bye

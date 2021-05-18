@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<OS5FT4jG9uhYBn2v3tX@localhost>
+250 2.1.0 Ok
+RCPT TO:<cqO3YV@localhost>
+250 2.1.5 Ok
+RCPT TO:<5GBEsl9mrQx3@localhost>
+250 2.1.5 Ok
+RCPT TO:<qyrfYtznlSiRGHP04cox@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: OS5FT4jG9uhYBn2v3tX@localhost
+To: cqO3YV@localhost
+Cc: 5GBEsl9mrQx3@localhost
+Message-ID: <558444535.33937.1515575523987.JavaMail.toney@toney-pkl-server>
+Subject: YeAx
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_33936_238683654.1515575523987"
+
+------=_Part_33936_238683654.1515575523987
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+l5Ot1NikCr2LF70HYbsqJMUWeuyxBf98cSXAvwmQKgnZVERGh1EVnagZ6OIpdm8D4ukwCoRUbvPGeM0z7JqWlTNchYL5txK23BAXfFXiSfdP7Ojk1N4HmeMWawKrVU5Et96qLv0JuxZCATGcpy
+------=_Part_33936_238683654.1515575523987--
+.
+250 2.0.0 Ok: queued as TSYUB19CW82S
+QUIT
+221 2.0.0 Bye

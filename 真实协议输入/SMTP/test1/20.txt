@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<zAaVOswGjD2YdC@localhost>
+250 2.1.0 Ok
+RCPT TO:<zHMNBafGd8jtm2@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: zAaVOswGjD2YdC@localhost
+To: zHMNBafGd8jtm2@localhost
+Message-ID: <317135081.86624.1515575195951.JavaMail.toney@toney-pkl-server>
+Subject: T
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_86623_790181971.1515575195951"
+
+------=_Part_86623_790181971.1515575195951
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+9qzPN6elgZUOjdhaxRwTWAG8yDnvX3sMtViSJ50KpImfHuQYb2CB14F7kLroVrg2uxMzpdQ94K6JhLeyIA781FRvqUDfXjWBZcimkoTt0Gn53PHCOYbENzyQ2AL8JrGosZguwUI5Ndx9Kh3nc6WCDbv01SqVR7iYkeP
+------=_Part_86623_790181971.1515575195951--
+.
+250 2.0.0 Ok: queued as 0CQU119CCEY5
+QUIT
+221 2.0.0 Bye

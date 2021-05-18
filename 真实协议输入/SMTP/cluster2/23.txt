@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<3l9rfhx8hiih1@localhost>
+250 2.1.0 Ok
+RCPT TO:<2758dmtpetpmq@localhost>
+250 2.1.5 Ok
+RCPT TO:<za4n6zmg07p4@localhost>
+250 2.1.5 Ok
+RCPT TO:<48ikvjcx7@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: 3l9rfhx8hiih1@localhost
+To: 2758dmtpetpmq@localhost
+Cc: za4n6zmg07p4@localhost
+Message-ID: <1597591531.47611.1515575444522.JavaMail.toney@toney-pkl-server>
+Subject: qdw
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_47610_2046232853.1515575444522"
+
+------=_Part_47610_2046232853.1515575444522
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+u3v6twhmh1bfotd7e40pf144gyfe5yk2ex6orr2leklwlfw9juztf18uow12z4mt7hb9rsj6p1vwnstbfvauvjugqvkc6ti5aqgqbqitolpxz6irglqmxp75gbm9f90qy3cdobt06isi1s1p1snwd9fp5afp0xv5i05u06zivz48btzr2g
+------=_Part_47610_2046232853.1515575444522--
+.
+250 2.0.0 Ok: queued as 7FCEB19C1D39
+QUIT
+221 2.0.0 Bye

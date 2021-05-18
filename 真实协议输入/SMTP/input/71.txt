@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<uruyvjtu@localhost>
+250 2.1.0 Ok
+RCPT TO:<5nn6tqnuf2a@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: uruyvjtu@localhost
+To: 5nn6tqnuf2a@localhost
+Message-ID: <390652430.39102.1515575392673.JavaMail.toney@toney-pkl-server>
+Subject: ogd
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_39100_346977277.1515575392673"
+
+------=_Part_39100_346977277.1515575392673
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+y929rmdl8dld6pr9vzf25lndcdescff6rfo1dle56jf17wqb5gcv3p1n3z30k9rvfgpakbjd160smwuo1zhxgbunjyal6xfcml4n2enmxf0wtmr5gnq934maucf6an3qhhxexgokrh8kb9w6e9m3z2dtrsgsh21of9h9h7e99xstvi1km7ra2o6ujma46pe76fdcg9zxgbkz4t5tqyq2y0kfw8d22ce5i03kdt5mlvzjt7mh28inn90qmyhv3myayq0xcf398ikgr3t3s62rhhcptfhdlr2v7et2xkcsgucjzxlilh43
+------=_Part_39100_346977277.1515575392673--
+.
+250 2.0.0 Ok: queued as A4AAF19C1006
+QUIT
+221 2.0.0 Bye

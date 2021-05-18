@@ -1,0 +1,11 @@
+HTTP####TTP/####TP/1####P/1.####/1.1####1.1 ####.1 3####1 30#### 304####304 ####04 N####4 No#### Not####Not ####ot M####t Mo#### Mod####Modi####odif####difi####ifie####fied####ied
+####ed
+D####d
+Da####
+Dat####Date####ate:####te: ####
+Ser####Serv####erve####rver####ver:####er: ####
+Con####Conn####onne####nnec####nect####ecti####ctio####tion####ion:####on: ####
+Kee####Keep####eep-####ep-A####p-Al####-Ali####Aliv####live####ive:####ve: ####
+ETa####ETag####Tag:####ag: ####
+Exp####Expi####xpir####pire####ires####res:####es: ####
+Cac####Cach####ache####che-####he-C####e-Co####-Con####Cont####ontr####ntro####trol####rol:####ol: 

@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<ifs44ta4tr7cf@localhost>
+250 2.1.0 Ok
+RCPT TO:<gqmxkshb4jk8t@localhost>
+250 2.1.5 Ok
+RCPT TO:<wwlk29rwt5@localhost>
+250 2.1.5 Ok
+RCPT TO:<nhk16@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: ifs44ta4tr7cf@localhost
+To: gqmxkshb4jk8t@localhost
+Cc: wwlk29rwt5@localhost
+Message-ID: <1783586396.41645.1515575408790.JavaMail.toney@toney-pkl-server>
+Subject: vb4y
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_41644_1081832331.1515575408790"
+
+------=_Part_41644_1081832331.1515575408790
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+b0jo729s2mxkadajfi3lgqqnutfz2fr5utfqxdes176y6fzwiv9uzshc7pui0cc0uc53k1qwm4jnnw6mofsrh7ajacxru52nr22iiz317y8o9jhphp46z6eya43w9twsllub69jsk2s6zdbmc0ff5029jtn0wheqkyns0506s4alx8q
+------=_Part_41644_1081832331.1515575408790--
+.
+250 2.0.0 Ok: queued as C13B419C13F7
+QUIT
+221 2.0.0 Bye

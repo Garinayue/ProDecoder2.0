@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<ORTeAWdswGY@localhost>
+250 2.1.0 Ok
+RCPT TO:<YUC6xH52wto7V@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: ORTeAWdswGY@localhost
+To: YUC6xH52wto7V@localhost
+Message-ID: <457636274.71559.1515575251639.JavaMail.toney@toney-pkl-server>
+Subject: cloYCaL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_71558_1353642353.1515575251639"
+
+------=_Part_71558_1353642353.1515575251639
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+XNciWGFxEqPVLar9vpMz46SD5uZOwtTfmIYkbHgQhtuYZSQ3aRxhyE8BA2CdU9wVksDrjXzT74vpJH5fg0KiNIlGbm6ne1WLqPjrqC9yDa6H8X3egYLO5wMphRtZdPAFfNQcKmTkVx7BWs4
+------=_Part_71558_1353642353.1515575251639--
+.
+250 2.0.0 Ok: queued as PJ95619C6C2I
+QUIT
+221 2.0.0 Bye

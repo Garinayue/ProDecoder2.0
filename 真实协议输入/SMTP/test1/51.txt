@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<Imlti0BxZyw2@localhost>
+250 2.1.0 Ok
+RCPT TO:<JXUtSirAef9@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: Imlti0BxZyw2@localhost
+To: JXUtSirAef9@localhost
+Message-ID: <045350053.05734.1515575068117.JavaMail.toney@toney-pkl-server>
+Subject: ARki
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_5733_6904913820.1515575068117"
+
+------=_Part_5733_6904913820.1515575068117
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+3skN1jcZ7lwz2ubfgaxrKIRn8WpA5mDPG60HqOXvYSto7PhrNsZHXGASjnmtYQqbpxk82wMBUeIWfKRTcv0o4dalLFVECiJu9D6jgL1X4RrkvaSpzeq7mMdnhNHQ9OfwETUFV5IZ3A6uts
+------=_Part_5733_6904913820.1515575068117--
+.
+250 2.0.0 Ok: queued as OUF8C19CROEA
+QUIT
+221 2.0.0 Bye

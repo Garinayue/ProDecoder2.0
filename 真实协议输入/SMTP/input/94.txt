@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<uatbsn7@localhost>
+250 2.1.0 Ok
+RCPT TO:<k0ny7t6rz1tf5p@localhost>
+250 2.1.5 Ok
+RCPT TO:<l3b2upxojq8ioql@localhost>
+250 2.1.5 Ok
+RCPT TO:<xtaf02d@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: uatbsn7@localhost
+To: k0ny7t6rz1tf5p@localhost
+Cc: l3b2upxojq8ioql@localhost
+Message-ID: <1649785409.38481.1515575388601.JavaMail.toney@toney-pkl-server>
+Subject: xdd
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_38479_1330237509.1515575388601"
+
+------=_Part_38479_1330237509.1515575388601
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+w1v5itsdqbqp686kuusz3rsbi1cmdmyury7ah9vxfi7ckuscm0sd6alke82bgyybrjxpl3ax3wu02weuqu10593iy1ls6x2k1ooroij5c02v3e6k2kd4a7pcqrpbuewse9bacc9lgto2wrs3vziecpkufhnix74stocxd54i
+------=_Part_38479_1330237509.1515575388601--
+.
+250 2.0.0 Ok: queued as 9315519C0F11
+QUIT
+221 2.0.0 Bye

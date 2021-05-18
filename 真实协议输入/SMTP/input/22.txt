@@ -1,0 +1,35 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<w07vuktw5yq@localhost>
+250 2.1.0 Ok
+RCPT TO:<emggrlwx@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: w07vuktw5yq@localhost
+To: emggrlwx@localhost
+Message-ID: <1040586590.40525.1515575401718.JavaMail.toney@toney-pkl-server>
+Subject: 9tfq
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_40524_1993877480.1515575401718"
+
+------=_Part_40524_1993877480.1515575401718
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+y0e4e2285q1r16a0i31lb3inwlzl1m473cagwaovkj8cq02d4syegg428124adpclv3eruw0pwpww5qm664d6890o7gwz3vskm58q54zi229l1qilsvz4u90z53esoqy47bi0qa49dfprjla96u4jikalo1zcw72wpv59trq8ninuliarsc6av99eoefzv6j861zn9yx8uo7q4wa0qd3v1ur3nhr63aydpijb0ypgy5vctza2ttwn70jppzufzzrz66v40gd0gm0jbole41j0k81m4mx13sultpnk848b7etncv6prer2kx7mn9mxziry3a5xcshu3k09dhcmtrw4k2o2nun8
+------=_Part_40524_1993877480.1515575401718--
+.
+250 2.0.0 Ok: queued as AFAD019C1239
+QUIT
+221 2.0.0 Bye

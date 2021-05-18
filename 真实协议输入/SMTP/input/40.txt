@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<9270kiy8axb0fdq@localhost>
+250 2.1.0 Ok
+RCPT TO:<8s59l5wacw1o2q@localhost>
+250 2.1.5 Ok
+RCPT TO:<keu3wrin@localhost>
+250 2.1.5 Ok
+RCPT TO:<fe0qz@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: 9270kiy8axb0fdq@localhost
+To: 8s59l5wacw1o2q@localhost
+Cc: keu3wrin@localhost
+Message-ID: <1450351807.37623.1515575383187.JavaMail.toney@toney-pkl-server>
+Subject: uh5v0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_37622_746047365.1515575383187"
+
+------=_Part_37622_746047365.1515575383187
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+l4sol2kv65wzgkl3seyadibd0jlishwjhbphbnqgmg5qqne68qeijo23thcjfferrjiw9fdk4phicol3mqgrr4umvdjvp2jrxiv9glp3b2evfhwbu12itwla8vc6q1vg9b54r55i8q653xnie4ryj8nacxhtsojiagodmp0jnfg0ptq91f558cji5mggltre9ltjos3jnshist4639yqcdqqwvv7cqqix1i1d6noa2bo15dhwn8v4e43xec6ljtv8urti87fpfpzsi6
+------=_Part_37622_746047365.1515575383187--
+.
+250 2.0.0 Ok: queued as 2E26819C0DA4
+QUIT
+221 2.0.0 Bye

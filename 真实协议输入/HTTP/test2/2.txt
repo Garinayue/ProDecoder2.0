@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: pnX=wUTSAoyz)aeJLiv(8.;mxDkjC6WFH94s25r0KY/ug
+Server: 1D5sAIpuMc9dTfU
+X-Frame-Options: *edu=&,W)g2UAQrJyV6la"n_G3.IzH
+Last-Modified: =4MPg8)_1,&:HhKZmafk6?ju2W3cizA"NRTpyLC
+ETag: z1BLYDGo%7JwQx"M*E:klhUZS&
+Accept-Ranges: 93)5eJ_
+Vary: xs)lp2,BI6N_L5A
+Content-Encoding: /(ybNY7&9jZRi)xs
+Cache-Control: A?suR0v)m79yJ4wLFUcN%(b&a5MEi2Senp:=j"8zrYB.qtZ,6Cgx* W1
+Expires: 0)7Hu ._gskZKvGVe51tjTiO&ESCynR%xa*mhDz
+Content-Length: 520
+Keep-Alive: SdJ3sUiAgWX6 hqel1cxoNn8"b*j;zM(5/?Hw49&LTEkF
+Connection: %6WmAyRK,*GH(Pd2;ot8ZgnTu5/JNh?1cx)pz07= UClv9wSO_&sF3MIibY
+Content-Type: &)CQ6R;I0P57bDHnl4:w*9rzetYKMvBaks=g
+Content-Language: uk5LU:0p;n/oW9=)

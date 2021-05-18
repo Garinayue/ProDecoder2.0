@@ -1,0 +1,15 @@
+Post####ost #### HTT####HTTP####TTP/####TP/1####P/1.####/1.1####1.1
+####.1
+H####1
+Ho####
+Hos####Host####ost:####st: ####
+Con####Conn####onne####nnec####nect####ecti####ctio####tion####ion:####on: ####
+Con####Cont####onte####nten####tent####ent-####nt-L####t-Le####-Len####Leng####engt####ngth####gth:####th: ####
+Use####User####ser-####er-A####r-Ag####-Age####Agen####gent####ent:####nt: ####
+Con####Cont####onte####nten####tent####ent_####nt_t####t_ty####_typ####type####ype:####pe: ####
+Acc####Acce####ccep####cept####ept:####pt: ####
+Ori####Orig####rigi####igin####gin:####in: ####
+Ref####Refe####efer####fere####erer####rer:####er: ####
+Acc####Acce####ccep####cept####ept-####pt-E####t-En####-Enc####Enco####ncod####codi####odin####ding####ing:####ng: ####
+Acc####Acce####ccep####cept####ept-####pt-L####t-La####-Lan####Lang####angu####ngua####guag####uage####age:####ge: ####
+Coo####Cook####ooki####okie####kie:####ie: 

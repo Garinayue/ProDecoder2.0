@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<ZH5n78dNKPp0Bs@localhost>
+250 2.1.0 Ok
+RCPT TO:<ydbu5Cz36DK47aPIrWBo@localhost>
+250 2.1.5 Ok
+RCPT TO:<157WF@localhost>
+250 2.1.5 Ok
+RCPT TO:<CBXK4u8ve@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: ZH5n78dNKPp0Bs@localhost
+To: ydbu5Cz36DK47aPIrWBo@localhost
+Cc: 157WF@localhost
+Message-ID: <3081415033.29118.1515575325213.JavaMail.toney@toney-pkl-server>
+Subject: mNTaD
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_29117_9925070428.1515575325213"
+
+------=_Part_29117_9925070428.1515575325213
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+5MUlbXgi2R1HBaYWkj39hpKNefzstmCqVuED4OIFATPZdZS4do7MPCVIcYsrQGbgAuEqjn9Ovt2xlNJ3U58ihDeK6Rf0zy2QOpqflzNE7ckMCnoZb3BvhWmiVKreTAX1HuLUdJgj5a
+------=_Part_29117_9925070428.1515575325213--
+.
+250 2.0.0 Ok: queued as 9V0Y419CKJBU
+QUIT
+221 2.0.0 Bye

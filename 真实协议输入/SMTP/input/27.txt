@@ -1,0 +1,40 @@
+220 toney-pkl-server ESMTP Postfix (Ubuntu)
+EHLO toney-pkl-server
+250-toney-pkl-server
+250-PIPELINING
+250-SIZE 10240000
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+MAIL FROM:<m6c468dt7@localhost>
+250 2.1.0 Ok
+RCPT TO:<2qmnu@localhost>
+250 2.1.5 Ok
+RCPT TO:<cuq1x2cao2@localhost>
+250 2.1.5 Ok
+RCPT TO:<ne5xq7exb9@localhost>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: m6c468dt7@localhost
+To: 2qmnu@localhost
+Cc: cuq1x2cao2@localhost
+Message-ID: <1101653372.43879.1515575422713.JavaMail.toney@toney-pkl-server>
+Subject: grd
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_43878_1509889140.1515575422713"
+
+------=_Part_43878_1509889140.1515575422713
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+1bo0cmux1plsdm8ca8f2qbxyy3x218y6aziby195cqw21q7380l09vquadustmsnypilhc4l39vzslrdzbvakn3kfjqu5llko4n1817hboxwhw0e8edqe0kppt3mz50db0bluep84h5wzocjicjjffpc4zniifwdfcsztk15hoz2aolj22pmpb6li929z31c79kppsk3ugdya44bx2rrqre1mggtn0inag6eo0wxpei1cfv6yqh7hu7ia9csjo1hftgnc3aegpe7zek19ju33jpprxsf7zt34
+------=_Part_43878_1509889140.1515575422713--
+.
+250 2.0.0 Ok: queued as AE6C419C0937
+QUIT
+221 2.0.0 Bye
