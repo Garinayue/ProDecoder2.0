@@ -1,5 +1,8 @@
 # ProDecoder2.0
 
+## 环境
+python实现，需要安装自然语言的lda主题模型库
+
 ## 单文件输入
 自己设计了三种格式的报文，input.txt这一个文件夹作为输入，txt中的每一行即为一条报文数据  
 module1, module2&3, module4分别是四个模块的代码和运行结果  
